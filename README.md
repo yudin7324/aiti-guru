@@ -30,7 +30,7 @@ API: https://dummyjson.com/docs/auth
 
 ## Демо-аккаунт:
 
-username: emilys
-password: emilyspass
+- username: emilys
+- password: emilyspass
 
 GIT: https://github.com/yudin7324/aiti-guru
