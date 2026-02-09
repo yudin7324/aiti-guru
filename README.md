@@ -17,13 +17,8 @@
 
 ## 🚀 Запуск проекта
 
-npm install
-# или
-yarn
-
-npm run dev
-# или
-yarn dev
+- npm install
+- npm run dev
 
 http://localhost:3000
 
@@ -33,7 +28,7 @@ http://localhost:3000
 
 API: https://dummyjson.com/docs/auth
 
-### Демо-аккаунт:
+## Демо-аккаунт:
 username: emilys
 password: emilyspass
 
